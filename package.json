@@ -1,0 +1,29 @@
+{
+  "name": "promise-with-status",
+  "version": "0.0.0",
+  "description": "A promise exports status and value (or reason)",
+  "license": "MIT",
+  "repository": "MakeNowJust/promise-with-status",
+  "author": "TSUYUSATO Kitsune <make.just.on@gmail.com> (https://quine.codes)",
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "promise",
+    "status",
+    "value",
+    "internal",
+    "export"
+  ],
+  "xo": {
+    "space": 2,
+    "semicolon": false
+  },
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "xo": "^0.17.0"
+  }
+}
