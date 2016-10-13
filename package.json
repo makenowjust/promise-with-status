@@ -1,6 +1,6 @@
 {
   "name": "promise-with-status",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A promise exports status and value (or reason)",
   "license": "MIT",
   "repository": "MakeNowJust/promise-with-status",
