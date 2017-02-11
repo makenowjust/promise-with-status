@@ -1,5 +1,7 @@
 # promise-with-status [![npm](https://img.shields.io/npm/v/promise-with-status.svg?style=flat-square)](https://www.npmjs.com/package/promise-with-status) [![Travis](https://img.shields.io/travis/MakeNowJust/promise-with-status.svg?style=flat-square)](https://travis-ci.org/MakeNowJust/promise-with-status) [![SUSHI-WARE LICENSE](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg?style=flat-square)](https://github.com/MakeNowJust/sushi-ware)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/MakeNowJust/promise-with-status.svg)](https://greenkeeper.io/)
+
 > A promise exports `status` and `value` (or `reason`).
 
 ## Install
